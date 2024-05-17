@@ -10,7 +10,7 @@ This approach will lead to the full tokenization of Asset Chain nodes, integrati
 
 Asset Chain supports 2 types of nodes
 
-* Liquid nodes (default and promoted)&#x20;
+* Liquid nodes&#x20;
 * Standalone nodes
 
 _Please refer to a visualization of this innovative approach below:_

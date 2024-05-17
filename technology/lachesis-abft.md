@@ -1,3 +1,7 @@
+---
+description: Explain Lachesis consensus
+---
+
 # 2️⃣ Lachesis aBFT
 
 Lachesis is a breakthrough **aBFT consensus algorithm**.

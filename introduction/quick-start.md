@@ -12,8 +12,8 @@ Let’s see how to deploy a smart contract on AssetChain using the [Remix IDE](h
 
 Before getting started:
 
-1. Follow for the step-by-step on how to add AssetChain testnet to [Metamask](https://app.gitbook.com/o/ozWPjpnLQnWe0tZlB7Iz/s/fOxLaEO4KRS4jU54Jd4B/\~/changes/3/general-info/add-assetchain).
-2. This guide assumes you have got Sepolia ETH and bridged to the AssetChain Testnet Network. Learn how to do that in [Testnet Faucets](https://docs.mode.network/tools/testnet-faucets)
+1. Follow for the step-by-step on how to add AssetChain testnet to [Metamask](../general-info/add-assetchain.md).
+2. This guide assumes you have got Testnet RWA and connected to the AssetChain Testnet Network. Learn how to do that in [Testnet Faucets](../tools/faucets.md).
 
 We are ready to get started!
 
@@ -21,9 +21,9 @@ We are ready to get started!
 
 [Remix](https://remix.ethereum.org/) is a no-setup tool for developing smart contracts. It’s easy to get started allowing a simple deployment process, debugging, interacting with smart contracts, and more. It’s a great tool to test quick changes and interact with deployed smart contracts.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-14 at 11.24.15 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-14 at 11.24.15 AM.png" alt=""><figcaption><p>smart contract code sample</p></figcaption></figure>
 
-For the sake of this tutorial, we will be deploying the ‘ERC20Token.sol’ smart contract for deploying a fungible token, but you can use any of your code.
+For the sake of this tutorial, we will be deploying the ‘ERC20Token.sol’ smart contract for minting a fungible token, but you can use any of your code.
 
 You can copy and then paste this in Remix or use your own contract code. Here's the sample code:
 
@@ -67,10 +67,19 @@ Make sure to have AssetChain Testnet as your selected network in Metamask before
 
 Now, MetaMask should pop up and ask you to confirm the transaction with super low fees.
 
-![This image shows a screenshot of Metamask wallet with the transaction to deploy the smart contract. It shows very low fees of around 0.35 dollars or 0.00018852 ETH.](https://docs.mode.network/\~gitbook/image?url=https%3A%2F%2Flh4.googleusercontent.com%2Fu2Y8C7HIZLdoXt\_3UW\_bEGSj8fI0oRCoWsvLDfJaHjzviK7ucJKzrCgh8Qiw4OD7Zj8EK3-KGCK7H2fXn5Am5iUbDKHoD44ZDZkHUqC2R8UQmbkvStnjWNMMM9EwDcp\_Sgl9Ml-ONlK8wCE0T21wEqo\&width=768\&dpr=4\&quality=100\&sign=b0c24eaeda0781d22fa93fbca02ff87faf94bcf79340d3308768fb4774b86adc)
 
-**CONGRATULATIONS! You just deployed your first smart contract to** AssetChain**.**
 
-If you want to learn how to interact with your recently deployed contact, check [2. How to explore and interact with your deployed smart contract?](https://docs.mode.network/tutorials/deploying-a-smart-contract/using-remix#id-2.-how-to-explore-and-interact-with-your-deployed-smart-contract)
+<div align="left">
 
-To learn more about AssetChain and how to turn your code into a business, join our [Discord](https://discord.gg/modenetworkofficial) and say hello 👋
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-17 at 4.06.07 PM.png" alt="" width="208"><figcaption></figcaption></figure>
+
+</div>
+
+{% hint style="success" %}
+**Congrats! You just deployed your first smart contract to AssetChain.**
+{% endhint %}
+
+
+
+To learn more about AssetChain and how to turn your code into a business, join our [Discord](dev-onboarding-checklist.md) and say hello 👋
+

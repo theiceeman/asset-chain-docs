@@ -1,5 +1,5 @@
 ---
-description: Time it takes to finalize a block.
+description: How much time it takes to finalize a block on Asset Chain.
 ---
 
 # 🏆 Block Finality
@@ -8,7 +8,7 @@ Finality is the point at which a transaction on a blockchain becomes irreversibl
 
 At its core, a blockchain is simply a database that contains transactions. When a transaction is submitted to a blockchain, it’s not added directly to it. Rather, it’s bundled into a “block” alongside other transactions, which is then incorporated into the database. As such, a blockchain is a sequential chain of blocks that contain transactions, hence its name.
 
-<figure><img src="https://docs.fantom.foundation/~gitbook/image?url=https%3A%2F%2F214665317-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MKjpUMrhoyibSIWfRrl%252Fuploads%252FGSdFgvqTGJIfUC5YLSVE%252FTouring%2520Sonic%2520-%2520Blockchain.png%3Falt%3Dmedia%26token%3D02b298e0-613e-4ab9-a4fb-f1771e782eb0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=23f7b0ec9a348d257151966505a682c74c56f0a22503fe6909e3f0c42d51a966" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.fantom.foundation/~gitbook/image?url=https%3A%2F%2F214665317-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MKjpUMrhoyibSIWfRrl%252Fuploads%252FGSdFgvqTGJIfUC5YLSVE%252FTouring%2520Sonic%2520-%2520Blockchain.png%3Falt%3Dmedia%26token%3D02b298e0-613e-4ab9-a4fb-f1771e782eb0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=23f7b0ec9a348d257151966505a682c74c56f0a22503fe6909e3f0c42d51a966" alt=""><figcaption><p>chain of blocks, representing a blockchain.</p></figcaption></figure>
 
 Most importantly, a blockchain is decentralized, which means it doesn’t run on a single server. Instead, the blockchain exists simultaneously on a massive amount of computers around the world that run software to communicate with each other and agree on the content of the database. (On AssetChain, these computers are called **validators**.)
 

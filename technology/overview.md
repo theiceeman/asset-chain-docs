@@ -1,3 +1,7 @@
+---
+description: What is AssetChain?
+---
+
 # ⏩ Overview
 
 Asset Chain is a decentralized, open-source, smart contract platform that aims to provide fast, secure, and scalable infrastructure for decentralized applications (dApps).

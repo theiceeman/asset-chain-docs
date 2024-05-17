@@ -42,8 +42,6 @@ Asset Chain is fully compatible with the Ethereum Virtual Machine. Developers ca
 
 Here are some useful links to get you started:
 
-* [Learn more about ](https://docs.fantom.foundation/technology/overview)Asset Chain
-* [Deploy a smart contract](https://docs.fantom.foundation/smart-contract/useful-links)
-* [Use the API](https://docs.fantom.foundation/api/public-api-endpoints)
-* [Stake ](https://docs.fantom.foundation/staking/overview)RWA
-* [Run a validator](https://docs.fantom.foundation/node/tutorials/how-to-run-a-validator-node)
+* [Deploy a smart contract](quick-start.md)
+* [Bridge on Asset Chain](../tools/bridge.md)
+* [Operate a Node](../tools/operate-a-node.md)

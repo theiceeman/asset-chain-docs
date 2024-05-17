@@ -4,7 +4,7 @@ description: >-
   Mainnet.
 ---
 
-# 💡 Contract Addresses
+# 📁 Contract Addresses
 
 | NAME | ADDRESS                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------- |

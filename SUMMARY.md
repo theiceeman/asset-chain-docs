@@ -22,5 +22,7 @@
   * [💼 Wallets](tools/wallets.md)
   * [🚰 Faucets](tools/faucets.md)
   * [🔍 Block Explorers](tools/block-explorers.md)
-* [⁉️ FAQ](faq.md)
 * [🏫 Asset Chain Academy](asset-chain-academy.md)
+* [™️ Branding Guideline](branding-guideline.md)
+* [🔗 Official Links](official-links.md)
+* [⁉️ FAQ](faq.md)

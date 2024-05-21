@@ -13,13 +13,15 @@ Asset Chain is the native blockchain for Xend Finance Real-World Asset OAE (Onch
 
 This enables a fast, scalable, and secure smart contract platform.
 
-[Lachesis](https://docs.fantom.foundation/technology/lachesis-abft), is a revolutionary aBFT consensus mechanism, that allows Asset Chain to be faster and cheaper than previous technologies while retaining security.
+[Lachesis](https://docs.fantom.foundation/technology/lachesis-abft) is a revolutionary aBFT consensus mechanism, that allows Asset Chain to be faster and cheaper than previous technologies while retaining security.
 
 Asset Chain is:
 
 * Permissionless
 * Decentralized
 * Open source
+
+
 
 ### Key features <a href="#key-features" id="key-features"></a>
 
@@ -40,6 +42,8 @@ Asset Chain is also leaderless. By removing leaders, security does not rely on a
 #### Smart contract support <a href="#smart-contract-support" id="smart-contract-support"></a>
 
 Asset Chain is fully compatible with the Ethereum Virtual Machine. Developers can create and deploy smart contracts as they would on Ethereum.
+
+
 
 ### Get started <a href="#get-started" id="get-started"></a>
 

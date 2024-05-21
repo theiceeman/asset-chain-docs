@@ -1,5 +1,8 @@
 ---
 description: Everything you need to build on the Asset Chain.
+cover: >-
+  https://images.unsplash.com/photo-1530533718754-001d2668365a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxibHVlfGVufDB8fHx8MTcxNjI2NTg0MHww&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🔵 Introducing Asset Chain
@@ -45,3 +48,11 @@ Here are some useful links to get you started:
 * [Deploy a smart contract](quick-start.md)
 * [Bridge on Asset Chain](../tools/bridge.md)
 * [Operate a Node](../tools/operate-a-node.md)
+
+
+
+### Reference
+
+Asset Chain is built on [Fantom's](https://fantom.foundation/) revolutionary Lachesis consensus mechanism. Special thanks to the Fantom team.
+
+&#x20;

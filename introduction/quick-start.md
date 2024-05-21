@@ -21,7 +21,7 @@ We are ready to get started!
 
 [Remix](https://remix.ethereum.org/) is a no-setup tool for developing smart contracts. It’s easy to get started allowing a simple deployment process, debugging, interacting with smart contracts, and more. It’s a great tool to test quick changes and interact with deployed smart contracts.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-14 at 11.24.15 AM.png" alt=""><figcaption><p>smart contract code sample</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>smart contract code sample</p></figcaption></figure>
 
 For the sake of this tutorial, we will be deploying the ‘ERC20Token.sol’ smart contract for minting a fungible token, but you can use any of your code.
 
@@ -71,7 +71,7 @@ Now, MetaMask should pop up and ask you to confirm the transaction with super lo
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-17 at 4.06.07 PM.png" alt="" width="208"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="208"><figcaption></figcaption></figure>
 
 </div>
 

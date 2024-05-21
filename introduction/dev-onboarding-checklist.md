@@ -8,7 +8,7 @@ description: >-
 
 #### Asset Chain Technical Roadmap <a href="#mode-technical-roadmap" id="mode-technical-roadmap"></a>
 
-* [ ] Add Asset Chain Mainnet and Testnet to your wallet - [Add Asset Chain](../general-info/add-assetchain.md)
+* [ ] Add Asset Chain Mainnet and Testnet to your wallet - [Add Asset Chain](../general-info/add-asset-chain.md)
   * [ ] Mainnet Added
   * [ ] Testnet Added
 * [ ] Deploy a smart contract on AssetChain testnet

@@ -12,7 +12,7 @@ Let’s see how to deploy a smart contract on AssetChain using the [Remix IDE](h
 
 Before getting started:
 
-1. Follow for the step-by-step on how to add AssetChain testnet to [Metamask](../general-info/add-assetchain.md).
+1. Follow for the step-by-step on how to add AssetChain testnet to [Metamask](../general-info/add-asset-chain.md).
 2. This guide assumes you have got Testnet RWA and connected to the AssetChain Testnet Network. Learn how to do that in [Testnet Faucets](../tools/faucets.md).
 
 We are ready to get started!

@@ -12,7 +12,7 @@
   * [🏆 Block Finality](technology/block-finality.md)
 * [GENERAL INFO](general-info/README.md)
   * [🟩 Network Details](general-info/network-details.md)
-  * [🦊 Add AssetChain](general-info/add-assetchain.md)
+  * [🦊 Add Asset Chain](general-info/add-asset-chain.md)
   * [📁 Contract Addresses](general-info/contract-addresses.md)
 * [TOOLS](tools/README.md)
   * [🏗️ Operate a Node](tools/operate-a-node.md)

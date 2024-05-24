@@ -13,6 +13,8 @@ Asset Chain supports 2 types of nodes
 * Liquid nodes&#x20;
 * Standalone nodes
 
-_Please refer to a visualization of this innovative approach below:_
+For a detailed explanation, please refer here: [https://](https://app.gitbook.com/o/ozWPjpnLQnWe0tZlB7Iz/s/fOxLaEO4KRS4jU54Jd4B/)
+
+_Below is a visualization of this innovative approach:_
 
 <figure><img src="https://lh7-us.googleusercontent.com/V8KEkLxmackMaWvOKL78sduTzLx2D0DOaSzDCNZu_iAPCKcodKFH7XtBVShgDpRoZvH7KZ_e71o1doNeIZAVEs8blkN7qxK2Ga_hDN7sZ7BBz1fadfrDhVDfQ-V8JdtK-fdNk3z2Xsj-Gtq7feUSgVE" alt=""><figcaption><p>Xend Finance Liquid node infrastructure</p></figcaption></figure>

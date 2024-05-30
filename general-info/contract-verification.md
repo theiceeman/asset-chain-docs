@@ -75,7 +75,7 @@ But we can add it in a `customChains` object, to the config file. It includes:
 * `browserURL` - "http://scout.xendrwachain.com/"
 
 {% hint style="info" %}
-NB: the network name in `customChains` must match the network name in the `apiKey` object.
+The network name in `customChains` must match the network name in the `apiKey` object.
 {% endhint %}
 
 ```json
@@ -127,7 +127,13 @@ You can include constructor arguments with the verify task.
 <pre class="language-bash"><code class="lang-bash"><strong>npx hardhat verify --network &#x3C;network> DEPLOYED_CONTRACT_ADDRESS "Constructor argument 1"
 </strong></code></pre>
 
-&#x20;Example (no constructors).
+{% hint style="info" %}
+For info on more complex constructor arguments(arrays, tuples..) please [visit here](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#complex-arguments).
+{% endhint %}
+
+&#x20;
+
+Example (no constructors).
 
 ```sh
 D:\hard_hat>npx hardhat verify --network assetchain_test 0x263E6d3E8b98fB0393A108825E2DcE3063F66713  --constructor-args ./scripts/arguments.js 

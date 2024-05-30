@@ -1,11 +1,15 @@
 ---
-description: >-
-  In this page you will find all the official token addresses on AssetChain
-  Mainnet.
+description: In this page you will find all the official token addresses on AssetChain.
 ---
 
 # 📁 Contract Addresses
 
-| NAME | ADDRESS                                                                                   |
-| ---- | ----------------------------------------------------------------------------------------- |
-| USDC | [0x](https://explorer.mode.network/address/0xDfc7C877a950e49D2610114102175A06C2e3167a)... |
+### Mainnet
+
+| NAME | ADDRESS |
+| ---- | ------- |
+|      |         |
+
+### Testnet
+
+<table><thead><tr><th>NAME</th><th>ADDRESS</th><th data-hidden></th></tr></thead><tbody><tr><td>Special Fee Contract</td><td>0xFC00FACE00000000000000000000000000000000</td><td></td></tr></tbody></table>

@@ -14,6 +14,7 @@
   * [🟩 Network Details](general-info/network-details.md)
   * [🦊 Add Asset Chain](general-info/add-asset-chain.md)
   * [📁 Contract Addresses](general-info/contract-addresses.md)
+  * [👀 Contract Verification](general-info/contract-verification.md)
 * [TOOLS](tools/README.md)
   * [🏗️ Operate a Node](tools/operate-a-node.md)
   * [🧱 RPC](tools/rpc.md)

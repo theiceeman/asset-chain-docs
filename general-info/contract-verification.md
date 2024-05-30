@@ -74,7 +74,9 @@ But we can add it in a `customChains` object, to the config file. It includes:
 * `apiURL` - "http://scout.xendrwachain.com/api"
 * `browserURL` - "http://scout.xendrwachain.com/"
 
-
+{% hint style="info" %}
+NB: the network name in `customChains` must match the network name in the `apiKey` object.
+{% endhint %}
 
 ```json
 require("@nomiclabs/hardhat-waffle");

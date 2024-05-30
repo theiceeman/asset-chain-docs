@@ -156,7 +156,7 @@ Scroll down to see verified status. A green checkmark ✅ means the contract is 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-05-30 at 5.58.22 PM.png" alt=""><figcaption></figcaption></figure>
 
-You can scroll down to see and interact with the contract code.
+You can now scroll down in the explorer to see and interact with the contract code.
 
 
 

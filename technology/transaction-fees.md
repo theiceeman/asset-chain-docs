@@ -6,9 +6,7 @@ Each transaction on Asset Chain requires a transaction fee paid to the network i
 
 ### Rewards distribution <a href="#rewards-distribution" id="rewards-distribution"></a>
 
-Rewards distribution is fully controlled by an SFC contract. The SFC contract can be upgraded by governance at any time without a hard fork. The current distribution of transaction fees are:
+Rewards distribution is fully controlled by our Special Fee contract. The Special Fee contract can be upgraded by governance at any time without a hard fork. The current distribution of transaction fees are:
 
-* 0% burned
-* 0% to the Ecosystem Vault
-* 0% to the Gas Monetization program
-* 0% to validators
+* 20% to the Ecosystem Treasury
+* 80% to Validators

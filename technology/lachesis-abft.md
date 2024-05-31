@@ -19,9 +19,9 @@ Lachesis allows scaling transaction throughput while keeping **instant finality*
 
 ### How does Lachesis work? <a href="#how-does-lachesis-work" id="how-does-lachesis-work"></a>
 
-AssetChain's consensus mechanism, Lachesis, combines asynchronous Byzantine fault tolerance (aBFT) with directed acyclic graphs (DAGs). aBFT allows nodes to process transactions independently without requiring the sequential exchange of blocks, resulting in faster transaction times. DAGs, which represent blocks of transactions connected in a non-linear manner, facilitate this.
+Asset Chain's consensus mechanism, Lachesis, combines asynchronous Byzantine fault tolerance (aBFT) with directed acyclic graphs (DAGs). aBFT allows nodes to process transactions independently without requiring the sequential exchange of blocks, resulting in faster transaction times. DAGs, which represent blocks of transactions connected in a non-linear manner, facilitate this.
 
-In Lachesis, each validator has its own local DAG and creates blocks from incoming transactions, which are added to its DAG. Validators asynchronously exchange these blocks, spreading information through the network. Once a majority of validators agree on a block, it is added to a blockchain containing all final consensus transactions, which is the AssetChain mainnet.
+In Lachesis, each validator has its own local DAG and creates blocks from incoming transactions, which are added to its DAG. Validators asynchronously exchange these blocks, spreading information through the network. Once a majority of validators agree on a block, it is added to a blockchain containing all final consensus transactions, which is the Asset Chain mainnet.
 
 By combining the advantages of aBFT and DAGs, Lachesis achieves fast and efficient transaction processing, with the whole process of submitting a transaction and adding it to the mainnet taking approximately **1-2 seconds**.
 

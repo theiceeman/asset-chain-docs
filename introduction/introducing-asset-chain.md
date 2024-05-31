@@ -29,17 +29,17 @@ Asset Chain is:
 
 Asset Chain achieves transaction finality in 1–2 seconds on average.
 
-#### Scalability <a href="#scalability" id="scalability"></a>
+**Scalability**
 
-Asset Chain can process thousands of transactions per second and can scale to hundreds of nodes.
+Asset Chain can process up-to 5000 transactions per second and can scale to hundreds of nodes.
 
-#### Security <a href="#security" id="security"></a>
+**Security**
 
-Lachesis provides institutional-grade security to the distributed network. Asset Chain offers absolute finality, which means that transactions can never be reverted like in networks with probabilistic finality.
+The Lachesis consensus provides institutional-grade security to the distributed network. Asset Chain offers absolute finality, which means that transactions can never be reverted like in networks with probabilistic finality.
 
 Asset Chain is also leaderless. By removing leaders, security does not rely on a small set of actors in charge of block production.
 
-#### Smart contract support <a href="#smart-contract-support" id="smart-contract-support"></a>
+**Smart Contract Support**
 
 Asset Chain is fully compatible with the Ethereum Virtual Machine. Developers can create and deploy smart contracts as they would on Ethereum.
 

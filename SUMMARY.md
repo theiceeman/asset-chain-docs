@@ -10,6 +10,7 @@
   * [🍃 Proof of Stake](technology/proof-of-stake.md)
   * [💱 Transaction Fees](technology/transaction-fees.md)
   * [🏆 Block Finality](technology/block-finality.md)
+  * [⛽ Gas](technology/gas.md)
 * [GENERAL INFO](general-info/README.md)
   * [🟩 Network Details](general-info/network-details.md)
   * [🦊 Add Asset Chain](general-info/add-asset-chain.md)

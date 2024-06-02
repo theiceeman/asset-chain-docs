@@ -4,4 +4,4 @@ description: Brand Kit for Asset Chain
 
 # ™️ Branding Guideline
 
-[https://](https://medium.com/xendfinance/introducing-the-xend-finance-media-kit-17a5e4e1560e)
+[https://mega.nz/folder/YfQRjTxA#cVMGOLORcxCe-InxTE2EaA](https://mega.nz/folder/YfQRjTxA#cVMGOLORcxCe-InxTE2EaA)

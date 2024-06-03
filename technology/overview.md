@@ -1,5 +1,5 @@
 ---
-description: What is AssetChain?
+description: What is Asset Chain?
 ---
 
 # ⏩ Overview

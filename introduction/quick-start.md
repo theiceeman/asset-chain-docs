@@ -1,19 +1,19 @@
 ---
 description: >-
-  In this section we'll get you deploying a sample contract on AssetChain in
+  In this section we'll get you deploying a sample contract on Asset Chain in
   less than 10 minutes.
 ---
 
 # 🕔 Quick Start
 
-Let’s see how to deploy a smart contract on AssetChain using the [Remix IDE](https://remix.ethereum.org/) for simplicity.
+Let’s see how to deploy a smart contract on Asset Chain using the [Remix IDE](https://remix.ethereum.org/) for simplicity.
 
 ### Get everything ready <a href="#get-everything-ready" id="get-everything-ready"></a>
 
 Before getting started:
 
-1. Follow for the step-by-step on how to add AssetChain testnet to [Metamask](../general-info/add-asset-chain.md).
-2. This guide assumes you have got Testnet RWA and connected to the AssetChain Testnet Network. Learn how to do that in [Testnet Faucets](../tools/faucets.md).
+1. Follow for the step-by-step on how to add Asset Chain testnet to [Metamask](../general-info/add-asset-chain.md).
+2. This guide assumes you have got Testnet RWA and connected to the Asset Chain Testnet Network. Learn how to do that in [Testnet Faucets](../tools/faucets.md).
 
 We are ready to get started!
 
@@ -59,7 +59,7 @@ Make sure to open the advanced configurations and setting the EVM version to Lon
 1. Once the smart contract is compiled successfully, switch to the "`Deploy & Run Transactions`" tab.
 2. In the "`Environment`" dropdown menu, select "`Injected Provider - MetaMask`"; this will connect your MetaMask to Remix and will allow you to make transactions from that connected wallet.
 
-Make sure to have AssetChain Testnet as your selected network in Metamask before deploying.
+Make sure to have Asset Chain Testnet as your selected network in Metamask before deploying.
 
 ![](https://docs.mode.network/\~gitbook/image?url=https%3A%2F%2Flh4.googleusercontent.com%2FjmsucoJ4vr4ByW3\_0Nt4gwlckzu78pvh7ugVp2nEep9z9LtpY-BuC5WmhX4k\_uKk2vA\_iIvDZg-VEn8YDzKdoSzmE327wjbLiCIpCGe9xc\_GAxBOC5-LYet-qBNPQ54W5waFpeMZak61a-rmk\_ITxog\&width=300\&dpr=4\&quality=100\&sign=8abd245423fe32a3df61b633698504982aad62c31a9c4e3c6e2336a19e4fb375) ![](https://docs.mode.network/\~gitbook/image?url=https%3A%2F%2Flh6.googleusercontent.com%2FnIYOD8FEnw-1qCtgMI\_uKK4qRwEjciveycdc3q6iLtuW7su7sOQMZHhG1dw8Rwk2ulO4JFlQU8YxQlJIB8c6uMZJ5t19PCikrkIKVsRZW68PVRz8RVs1NtQOxrQ6x7CwZXtwjlv6W4Fe9x45\_44LWSQ\&width=300\&dpr=4\&quality=100\&sign=dd7dac6bc0c696aeb1fbf00a5d4b6fd03533ea96ad855e006ca34a4ea1d00621)
 
@@ -76,10 +76,10 @@ Now, MetaMask should pop up and ask you to confirm the transaction with super lo
 </div>
 
 {% hint style="success" %}
-**Congrats! You just deployed your first smart contract to AssetChain.**
+**Congrats! You just deployed your first smart contract to Asset Chain.**
 {% endhint %}
 
 
 
-To learn more about AssetChain and how to turn your code into a business, join our [Discord](dev-onboarding-checklist.md) and say hello 👋
+To learn more about Asset Chain and how to turn your code into a business, join our [Discord](dev-onboarding-checklist.md) and say hello 👋
 

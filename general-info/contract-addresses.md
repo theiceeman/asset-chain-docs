@@ -1,5 +1,5 @@
 ---
-description: In this page you will find all the official token addresses on AssetChain.
+description: In this page you will find all the official token addresses on Asset Chain.
 ---
 
 # 📁 Contract Addresses

@@ -2,7 +2,7 @@
 
 | Name                        | Value                                                                            |
 | --------------------------- | -------------------------------------------------------------------------------- |
-| Network Name                | AssetChain Mainnet                                                               |
+| Network Name                | Asset Chain Mainnet                                                              |
 | RPC Endpoint                | [https://](https://mainnet.mode.network/)                                        |
 | Chain ID                    |                                                                                  |
 | Currency Symbol             | RWA                                                                              |
@@ -10,11 +10,11 @@
 | Bridge                      | [https://](https://bridge.mode.network/)                                         |
 | ETH Mainnet Bridge Contract | [0x](https://etherscan.io/address/0x735aDBbE72226BD52e818E7181953f42E3b0FF21)... |
 
-### AssetChain Testnet <a href="#mode-testnet" id="mode-testnet"></a>
+### Asset Chain Testnet <a href="#mode-testnet" id="mode-testnet"></a>
 
 | Name            | Value                                                                      |
 | --------------- | -------------------------------------------------------------------------- |
-| Network Name    | AssetChain Testnet                                                         |
+| Network Name    | Asset Chain Testnet                                                        |
 | RPC Endpoint    | [https://rpctestnet.xendrwachain.com](https://rpctestnet.xendrwachain.com) |
 | Chain ID        | 42421                                                                      |
 | Currency Symbol | RWA                                                                        |

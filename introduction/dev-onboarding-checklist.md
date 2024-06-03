@@ -11,7 +11,7 @@ description: >-
 * [ ] Add Asset Chain Mainnet and Testnet to your wallet - [Add Asset Chain](../general-info/add-asset-chain.md)
   * [ ] Mainnet Added
   * [ ] Testnet Added
-* [ ] Deploy a smart contract on AssetChain testnet
+* [ ] Deploy a smart contract on Asset Chain testnet
   * [ ] [Quick start](quick-start.md)
   * [ ] [Deploying a Smart Contract](quick-start.md)
   * [ ] [Verifying your smart contract](https://rwa)

@@ -31,7 +31,7 @@ Asset Chain achieves transaction finality in 1–2 seconds on average.
 
 **Scalability**
 
-Asset Chain can process up-to 5000 transactions per second and can scale to hundreds of nodes.
+Asset Chain can process up-to 5000 transactions per second and can scale to hundreds of thousands of nodes.
 
 **Security**
 

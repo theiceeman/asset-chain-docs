@@ -6,5 +6,5 @@ Staking is the process of **securing the network by locking up your tokens**. It
 
 Validator nodes validate transactions and the staked tokens act as an **economic incentive** for them to play by the rules of the network. Since validators are anonymous to make the network decentralized and resilient to attacks from the outside, Asset Chain employs proof of stake to prevent Sybil attacks.
 
-AssetChain requires validator nodes to lock up at least 100,000 RWA (Asset Chain's native token) to prevent Sybil attacks.
+AssetChain requires validator nodes to lock up at least 30,000 RWA (Asset Chain's native token) to prevent Sybil attacks.
 

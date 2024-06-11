@@ -39,3 +39,11 @@ Proceed with the link below to get involved in this process.
 
 **Testnet:** [https://testnet-stake.assetchain.org](https://testnet-stake.assetchain.org/)
 
+
+
+If you're ready to stake your RWA tokens on Asset Chain, please follow the guide below.
+
+{% embed url="https://app.gitbook.com/o/ozWPjpnLQnWe0tZlB7Iz/s/iCmYJOZugbmFrSuj35oA/module-4-intermediate-tutorials/staking" %}
+
+
+

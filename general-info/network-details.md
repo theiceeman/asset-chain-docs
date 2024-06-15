@@ -12,11 +12,11 @@
 
 ### Asset Chain Testnet <a href="#mode-testnet" id="mode-testnet"></a>
 
-| Name            | Value                                                                      |
-| --------------- | -------------------------------------------------------------------------- |
-| Network Name    | Asset Chain Testnet                                                        |
-| RPC Endpoint    | [https://rpctestnet.xendrwachain.com](https://rpctestnet.xendrwachain.com) |
-| Chain ID        | 42421                                                                      |
-| Currency Symbol | RWA                                                                        |
-| Block Explorer  | [https://testnet.xendrwachain.com](https://testnet.xendrwachain.com)       |
-| Bridge          | [https://](https://sepolia-bridge.mode.network/)                           |
+| Name            | Value                                                                  |
+| --------------- | ---------------------------------------------------------------------- |
+| Network Name    | Asset Chain Testnet                                                    |
+| RPC Endpoint    | [https://enugu-rpc.assetchain.org/](https://enugu-rpc.assetchain.org/) |
+| Chain ID        | 42421                                                                  |
+| Currency Symbol | RWA                                                                    |
+| Block Explorer  | [https://testnet.assetchain.org/](https://testnet.assetchain.org/)     |
+| Bridge          | [https://](https://sepolia-bridge.mode.network/)                       |

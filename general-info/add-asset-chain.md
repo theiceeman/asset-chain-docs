@@ -36,13 +36,13 @@ To add Asset Chain Testnet as a custom network to MetaMask:
 4. Click **Add a network manually**.
 5. In the **Add a network manually** dialog that appears, enter the following information:
 
-| Name            | Value                                                                      |
-| --------------- | -------------------------------------------------------------------------- |
-| Network Name    | Asset Chain Testnet                                                        |
-| RPC Endpoint    | [https://rpctestnet.xendrwachain.com](https://rpctestnet.xendrwachain.com) |
-| Chain ID        | 42421                                                                      |
-| Currency Symbol | RWA                                                                        |
-| Block Explorer  | [https://testnet.xendrwachain.com](https://testnet.xendrwachain.com)       |
+| Name            | Value                                                                  |
+| --------------- | ---------------------------------------------------------------------- |
+| Network Name    | Asset Chain Testnet                                                    |
+| RPC Endpoint    | [https://enugu-rpc.assetchain.org/](https://enugu-rpc.assetchain.org/) |
+| Chain ID        | 42421                                                                  |
+| Currency Symbol | RWA                                                                    |
+| Block Explorer  | [https://testnet.assetchain.org/](https://testnet.assetchain.org/)     |
 
 1. Tap the Save button to save Asset Chain as a network.
 

@@ -52,7 +52,7 @@ contract ERC20Token is ERC20 {
 2. To compile your smart contract, go to the `Solidity Compiler tab` and select the contract you want to compile
 3. Click on "Compile", you can also enable "Auto Compile" for automatic compilation whenever you change the contract code.
 
-Make sure to open the advanced configurations and setting the EVM version to London. This is to avoid an issue with the `PUSH0` opcode. You can read more on this specification with all Optimism chains [here](https://community.optimism.io/docs/developers/build/differences/#opcode-differences).
+Make sure to open the advanced configurations and setting the solidity compiler to below 0.8.19. This is to avoid incompatibility with the recent `PUSH0` opcode.
 
 ![](https://docs.mode.network/\~gitbook/image?url=https%3A%2F%2F2176895816-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FmOUA87dDndFyiETJjxpf%252Fuploads%252FgvDYYhLyR0v2evtGgZe7%252Fimage.png%3Falt%3Dmedia%26token%3D1a9fe833-6167-487f-a89d-d5cc313d53a1\&width=768\&dpr=4\&quality=100\&sign=4a0175cbb69b731dc9ab52ed73451d163a398d62c2868e34631bc8bfa145c211)
 

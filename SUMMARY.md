@@ -14,7 +14,7 @@
 * [GENERAL INFO](general-info/README.md)
   * [🟩 Network Details](general-info/network-details.md)
   * [🦊 Add Asset Chain](general-info/add-asset-chain.md)
-  * [💡 Contract Addresses](general-info/contract-addresses.md)
+  * [📁 Contract Addresses](general-info/contract-addresses.md)
   * [👀 Contract Verification](general-info/contract-verification.md)
   * [🍂 Staking](general-info/staking.md)
 * [TOOLS](tools/README.md)

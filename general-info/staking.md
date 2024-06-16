@@ -21,7 +21,7 @@ Validators receive rewards in the form of additional tokens for successfully val
 
 Proceed with the link below to get involved in this process.
 
-{% embed url="https://testnet.xendrwachain.com/staking" %}
+{% embed url="https://testnet.assetchain.org/staking" %}
 
 
 
@@ -43,7 +43,7 @@ Proceed with the link below to get involved in this process.
 
 If you're ready to stake your RWA tokens on Asset Chain, please follow the guide below.
 
-{% embed url="https://app.gitbook.com/o/ozWPjpnLQnWe0tZlB7Iz/s/iCmYJOZugbmFrSuj35oA/module-4-intermediate-tutorials/staking" %}
+{% embed url="https://academy.assetchain.org/module-4-intermediate-tutorials/staking" %}
 
 
 

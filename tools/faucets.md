@@ -8,7 +8,7 @@ description: Get Testnet RWA
 
 This is an $RWA Faucet running on the Asset Chain Testnet. This faucet requires some mining work to be done in exchange for free testnet funds.
 
-{% embed url="https://faucet.xendrwachain.com/" %}
+{% embed url="https://faucet.assetchain.org/" %}
 
 
 

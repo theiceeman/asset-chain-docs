@@ -14,7 +14,7 @@ description: >-
 * [ ] Deploy a smart contract on Asset Chain testnet
   * [ ] [Quick start](quick-start.md)
   * [ ] [Deploying a Smart Contract](quick-start.md)
-  * [ ] [Verifying your smart contract](https://rwa)
+  * [ ] [Verifying your smart contract](../general-info/contract-verification.md)
 
 #### Socials <a href="#socials" id="socials"></a>
 

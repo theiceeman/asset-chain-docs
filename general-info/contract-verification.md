@@ -151,7 +151,7 @@ contracts/MultiSigWallet.sol:MultiSigWallet at 0x263E6d3E8b98fB0393A108825E2DcE3
 for verification on the block explorer. Waiting for verification result...
 
 Successfully verified contract MultiSigWallet on the block explorer.
-http://scout.xendrwachain.com/address/0x263E6d3E8b98fB0393A108825E2DcE3063F66713#code
+http://scan-testnet.assetchain.org/address/0x263E6d3E8b98fB0393A108825E2DcE3063F66713#code
 ```
 
 ### Confirm Verification on BlockScout <a href="#confirm-verification-on-blockscout" id="confirm-verification-on-blockscout"></a>

@@ -14,13 +14,13 @@ To add Asset Chain Mainnet as a custom network to MetaMask:
 4. Click **Add a network manually**.
 5. In the **Add a network manually** dialog that appears, enter the following information:
 
-| Name            | Value                                      |
-| --------------- | ------------------------------------------ |
-| Network Name    | Asset Chain Mainnet                        |
-| RPC Endpoint    | [https://](https://explorer.mode.network/) |
-| Chain ID        |                                            |
-| Currency Symbol | RWA                                        |
-| Block Explorer  | [https://](https://explorer.mode.network/) |
+| Name            | Value               |
+| --------------- | ------------------- |
+| Network Name    | Asset Chain Mainnet |
+| RPC Endpoint    |                     |
+| Chain ID        |                     |
+| Currency Symbol | RWA                 |
+| Block Explorer  |                     |
 
 You should now be able to connect to the Asset Chain Mainnet by selecting it from the network selection dropdown menu.
 
@@ -36,13 +36,13 @@ To add Asset Chain Testnet as a custom network to MetaMask:
 4. Click **Add a network manually**.
 5. In the **Add a network manually** dialog that appears, enter the following information:
 
-| Name            | Value                                                                      |
-| --------------- | -------------------------------------------------------------------------- |
-| Network Name    | Asset Chain Testnet                                                        |
-| RPC Endpoint    | [https://rpctestnet.xendrwachain.com](https://rpctestnet.xendrwachain.com) |
-| Chain ID        | 42421                                                                      |
-| Currency Symbol | RWA                                                                        |
-| Block Explorer  | [https://testnet.xendrwachain.com](https://testnet.xendrwachain.com)       |
+| Name            | Value                                                                        |
+| --------------- | ---------------------------------------------------------------------------- |
+| Network Name    | Asset Chain Testnet                                                          |
+| RPC Endpoint    | [https://enugu-rpc.assetchain.org/](https://enugu-rpc.assetchain.org/)       |
+| Chain ID        | 42421                                                                        |
+| Currency Symbol | RWA                                                                          |
+| Block Explorer  | [https://scan-testnet.assetchain.org/](https://scan-testnet.assetchain.org/) |
 
 1. Tap the Save button to save Asset Chain as a network.
 

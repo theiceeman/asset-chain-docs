@@ -12,7 +12,7 @@ The explorer has features that require little technical knowledge to track trans
 
 **Mainnet explorer:** [https://](https://modescan.io/)
 
-**Testnet explorer:** [https://testnet.xendrwachain.com/](https://testnet.xendrwachain.com/)
+**Testnet explorer:** [https://testnet.assetchain.org/](https://testnet.assetchain.org/)
 
 ### Asset Chain Advanced Explorer <a href="#blockscout" id="blockscout"></a>
 
@@ -22,7 +22,7 @@ With features like; smart contract verification, Apis, deep search, contract int
 
 **Mainnet explorer:** [https://](https://modescan.io/)
 
-**Testnet explorer:** [https://](https://testnet.xendrwachain.com/)
+**Testnet explorer:** [https://scan-testnet.assetchain.org/](https://scan-testnet.assetchain.org/)
 
 
 

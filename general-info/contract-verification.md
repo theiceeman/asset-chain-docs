@@ -71,8 +71,8 @@ Asset Chain is not directly supported by the plugin (to check run `npx hardhat v
 But we can add it in a `customChains` object, to the config file. It includes:
 
 * `chainID` - 42421
-* `apiURL` - "http://scout.xendrwachain.com/api"
-* `browserURL` - "http://scout.xendrwachain.com/"
+* `apiURL` - "http://scan-testnet.assetchain.org/api"
+* `browserURL` - "http://scan-testnet.assetchain.org"
 
 {% hint style="info" %}
 The network name in `customChains` must match the network name in the `apiKey` object.
@@ -102,8 +102,8 @@ module.exports = {
         network: "assetchain_test",
         chainId: 42421,
         urls: {
-          apiURL: "http://scout.xendrwachain.com/api",
-          browserURL: "http://scout.xendrwachain.com/"
+          apiURL: "https://scan-testnet.assetchain.org/api",
+          browserURL: "https://scan-testnet.assetchain.org/"
         }
       }
     ]

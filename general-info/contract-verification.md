@@ -158,11 +158,11 @@ http://scan-testnet.assetchain.org/address/0x263E6d3E8b98fB0393A108825E2DcE3063F
 
 Go to our BlockScout Explorer and paste the contract address into the search bar.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-30 at 5.58.42 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Scroll down to see verified status. A green checkmark ✅ means the contract is verified.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-30 at 5.58.22 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 You can now scroll down in the explorer to see and interact with the contract code.
 

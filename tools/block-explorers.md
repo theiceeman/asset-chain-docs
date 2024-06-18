@@ -10,19 +10,19 @@ Asset Chain Scan is a basic Block Explorer and Analytics Platform for Asset Chai
 
 The explorer has features that require little technical knowledge to track transactions, Addresses, Events on Asset Chain.
 
-**Mainnet explorer:** [https://](https://modescan.io/)
+**Mainnet explorer:**&#x20;
 
-**Testnet explorer:** [https://testnet.assetchain.org/](https://testnet.assetchain.org/)
+**Testnet explorer:** [https://testnet.assetchain.org](https://testnet.assetchain.org/)
 
 ### Asset Chain Advanced Explorer <a href="#blockscout" id="blockscout"></a>
 
-This explorer is built on Blockscout which is an open-source tool for inspecting and analyzing EVM based blockchains.
+This explorer built by Blockscout is an open-source tool for inspecting and analyzing EVM based blockchains.
 
-With features like; smart contract verification, Apis, deep search, contract interactions, which all makes it suitable for in-depth exploration of transactions Asset chain .
+With features like; smart contract verification, APIs, deep search, contract interactions, which all makes it suitable for in-depth exploration of transactions on Asset Chain .
 
-**Mainnet explorer:** [https://](https://modescan.io/)
+**Mainnet explorer:**&#x20;
 
-**Testnet explorer:** [https://scan-testnet.assetchain.org/](https://scan-testnet.assetchain.org/)
+**Testnet explorer:** [https://scan-testnet.assetchain.org](https://scan-testnet.assetchain.org/)
 
 
 

@@ -13,7 +13,7 @@ Asset Chain supports 2 types of nodes
 * Liquid nodes&#x20;
 * Standalone nodes
 
-For a detailed explanation, please refer here: [https://](https://app.gitbook.com/o/ozWPjpnLQnWe0tZlB7Iz/s/fOxLaEO4KRS4jU54Jd4B/)
+We re currently curating a more detailed explanation for setting up your nodes.
 
 _Below is a visualization of this innovative approach:_
 

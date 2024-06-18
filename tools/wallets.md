@@ -2,11 +2,7 @@
 
 Like all evm chains and L2's we support all evm wallets. We highly recommend these tho:
 
-### Madwallet <a href="#public-rpc-archival-node" id="public-rpc-archival-node"></a>
 
-Madwallet is a secure Multi-chain DeFi Wallet and RWA Aggregator.
-
-{% embed url="https://madwallet.io/" %}
 
 ### Metamask
 
@@ -14,3 +10,14 @@ MetaMask is a self-custodial wallet. A safe and simple way to access blockchain 
 
 {% embed url="https://metamask.io/" %}
 
+### Coinbase Wallet
+
+Coinbase Wallet supports hundreds of thousands of coins and a whole world of decentralized apps. Its a self-custody crypto wallet, putting you in control of your crypto, keys, and data.
+
+{% embed url="https://www.coinbase.com/en-ca/wallet" %}
+
+### TrustWallet
+
+A self-custody multi-chain platform, Trustwallet support millions of assets across 100+ blockchains. From Bitcoin, Ethereum, and Solana, to Cosmos, Optimism, and much more.
+
+{% embed url="https://trustwallet.com/" %}

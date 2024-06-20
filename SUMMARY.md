@@ -6,7 +6,7 @@
   * [✅ Dev Onboarding Checklist](introduction/dev-onboarding-checklist.md)
 * [TECHNOLOGY](technology/README.md)
   * [⏩ Overview](technology/overview.md)
-  * [2️⃣ Lachesis aBFT](technology/lachesis-abft.md)
+  * [2️⃣ 2️⃣ Lachesis aBFT](technology/lachesis-abft.md)
   * [🍃 Proof of Stake](technology/proof-of-stake.md)
   * [💱 Transaction Fees](technology/transaction-fees.md)
   * [🏆 Block Finality](technology/block-finality.md)

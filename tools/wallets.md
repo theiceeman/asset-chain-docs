@@ -8,7 +8,9 @@ Like all evm chains and L2's we support all evm wallets. We highly recommend the
 
 MetaMask is a self-custodial wallet. A safe and simple way to access blockchain applications and web3.
 
-{% embed url="https://metamask.io/" %}
+
+
+{% embed url="https://metamask.io" %}
 
 ### Coinbase Wallet
 

@@ -4,7 +4,7 @@ description: Get started with swapping tokens on Asset Chain
 
 # ♻️ Swap
 
-Users can decide to swap token on Mainnet or Testnet. \
+Users can decide to swap token on Mainnet or Testnet.\
 Swapping on Testnet will use the supported test Tokens.
 
 Click the links below to get started.
@@ -29,8 +29,15 @@ Click the links below to get started.
 
 <figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/4.png" alt=""><figcaption></figcaption></figure>
 
-
-
 {% hint style="success" %}
 Congratulations! You've swapped your token successfully.
 {% endhint %}
+
+
+
+{% hint style="info" %}
+For supported Testnet tokens, just reach out to the team [here](https://t.me/XendFinanceDevs)
+{% endhint %}
+
+
+

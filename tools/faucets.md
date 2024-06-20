@@ -36,8 +36,5 @@ Proceed to explore the blockchain, built for Real World Assets.
 {% endhint %}
 
 {% hint style="info" %}
-For supported Testnet tokens, just reach out to the team [here](https://t.me/XendFinanceDevs)
+For supported Testnet tokens, used to bridge & swap; just reach out to the team [here](https://t.me/XendFinanceDevs)
 {% endhint %}
-
-
-

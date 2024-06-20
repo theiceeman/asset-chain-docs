@@ -1,16 +1,38 @@
 ---
-description: This guide will verify using hardhat.
+description: Lets verify smart contracts on Asset Chain.
 ---
 
 # 👀 Contract Verification
 
-## Hardhat Verification Plugin
+Pro tip: If you deployed your contract with Hardhat, use the Hardhat guide to verify it.
+
+## With Advanced Explorer <a href="#with-advanced-explorer" id="with-advanced-explorer"></a>
+
+**Get Started**
+
+1. Visit the [Asset Chain Advanced Explorer](https://scan-testnet.assetchain.org/)​
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmuBv3mR5xhQRl9pMrnhC%2Fuploads%2Fgit-blob-670b2a5ff8b98475e986f56e4ab9d9744f16f0c1%2FScreenshot%202024-06-20%20at%2003.09.16.png?alt=media" alt=""><figcaption></figcaption></figure>
+
+2. On the Sidebar, hover on the \`Other\` link and click on \`verify contract\` link.
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmuBv3mR5xhQRl9pMrnhC%2Fuploads%2Fgit-blob-c884186cd96088248fd89649d8208ecd9ec4d697%2FScreenshot%202024-06-20%20at%2003.02.56.png?alt=media" alt=""><figcaption></figcaption></figure>
+
+3. Clicking verify contract\` should open up a form similar to the one below. Proceed to enter the parameters with which you compiled your contract.
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FmuBv3mR5xhQRl9pMrnhC%2Fuploads%2Fgit-blob-87107a6e3142f06055fbc4f7982ee2867b5de23b%2FScreenshot%202024-06-20%20at%2003.06.12.png?alt=media" alt=""><figcaption></figcaption></figure>
+
+4. If you submitted the form successfully, your contract has been verified. Visiting the contract page, you should see a page similar to the one below; with an alert showing verified, and your contract code being displayed.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## With Hardhat
 
 [Hardhat ](https://hardhat.org/)is a full-featured development environment for contract compilation, deployment and verification. The [Hardhat Etherscan plugin](https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html) supports contract verification on BlockScout.
 
-### Get Started <a href="#get-started" id="get-started"></a>
+#### Get Started <a href="#get-started" id="get-started"></a>
 
-#### **1) Install Hardhat** <a href="#id-1-install-hardhat" id="id-1-install-hardhat"></a>
+1. **Install Hardhat**
 
 If you are starting from scratch, create an npm project by going to an empty folder, running `npm init`, and following the instructions. Recommend npm 7 or higher.
 
@@ -28,11 +50,15 @@ npm install --save-dev hardhat
 yarn add --dev hardhat
 ```
 
-#### **2) Create a project** <a href="#id-2-create-a-project" id="id-2-create-a-project"></a>
+
+
+2. **Create a project**
 
 Run `npx hardhat` in your project folder and follow the instructions to create ([more info here](https://hardhat.org/getting-started/#quick-start)).
 
-#### 3) Install plugin <a href="#id-3-install-plugin" id="id-3-install-plugin"></a>
+
+
+3. Install plugin
 
 Install the [hardhat-etherscan plugin](https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html) (requires **v3.0.0+).**
 
@@ -48,7 +74,7 @@ npm install --save-dev @nomiclabs/hardhat-etherscan
 yarn add --dev @nomiclabs/hardhat-etherscan
 ```
 
-#### 4) Add plugin reference to config file <a href="#id-4-add-plugin-reference-to-config-file" id="id-4-add-plugin-reference-to-config-file"></a>
+4. Add plugin reference to config file
 
 Add the following statement to your `hardhat.config.js`.
 
@@ -62,7 +88,7 @@ If using TypeScript, add this to your `hardhat.config.ts.` [More info on using t
 import "@nomiclabs/hardhat-etherscan";
 ```
 
-### Config File <a href="#config-file" id="config-file"></a>
+#### Config File <a href="#config-file" id="config-file"></a>
 
 Your basic [Hardhat config file](https://hardhat.org/config/) (`hardhat.config.js` or `hardhat.config.ts`) will be setup to support the network you are working on. In this example we use the Asset Chain test network and a `.js` file.
 
@@ -111,7 +137,7 @@ module.exports = {
 };
 ```
 
-### Deploy and Verify <a href="#deploy-and-verify" id="deploy-and-verify"></a>
+#### Deploy and Verify <a href="#deploy-and-verify" id="deploy-and-verify"></a>
 
 #### Deploy <a href="#deploy" id="deploy"></a>
 
@@ -130,8 +156,6 @@ You can include constructor arguments with the verify task.
 {% hint style="info" %}
 For info on more complex constructor arguments(arrays, tuples..) please [visit here](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#complex-arguments).
 {% endhint %}
-
-&#x20;
 
 Example (no constructors).
 
@@ -154,24 +178,20 @@ Successfully verified contract MultiSigWallet on the block explorer.
 http://scan-testnet.assetchain.org/address/0x263E6d3E8b98fB0393A108825E2DcE3063F66713#code
 ```
 
-### Confirm Verification on BlockScout <a href="#confirm-verification-on-blockscout" id="confirm-verification-on-blockscout"></a>
+#### Confirm Verification on BlockScout <a href="#confirm-verification-on-blockscout" id="confirm-verification-on-blockscout"></a>
 
 Go to our BlockScout Explorer and paste the contract address into the search bar.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Scroll down to see verified status. A green checkmark ✅ means the contract is verified.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 You can now scroll down in the explorer to see and interact with the contract code.
-
-
 
 {% hint style="success" %}
 Congratulations! Your contract is successfully verified on Asset Chain Explorer.
 {% endhint %}
 
-
-
-### &#x20; <a href="#faq" id="faq"></a>
+### &#x20;<a href="#faq" id="faq"></a>

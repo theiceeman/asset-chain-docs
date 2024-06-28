@@ -14,3 +14,5 @@ Asset Chain currently supports the project below, to enable swift and effective 
 Subquery is a leading blockchain data indexer that provides developers with fast, flexible, universal, open source and decentralised APIs for web3 projects.
 
 Subquery supports many ecosystems including Asset Chain, Ethereum, Cosmos, Near, Polygon, Polkadot, Algorand, and more.
+
+{% embed url="https://academy.assetchain.org/module-4-intermediate-tutorials/setting-up-an-indexer" %}

@@ -18,6 +18,7 @@
   * [👀 Contract Verification](general-info/contract-verification.md)
   * [🍂 Staking](general-info/staking.md)
 * [TOOLS](tools/README.md)
+  * [🗂️ Indexer](tools/indexer.md)
   * [🏗️ Operate a Node](tools/operate-a-node.md)
   * [🧱 RPC](tools/rpc.md)
   * [🌉 Bridge](tools/bridge.md)

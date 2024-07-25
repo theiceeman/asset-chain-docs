@@ -1,15 +1,28 @@
 ---
 description: Everything you need to build on the Asset Chain.
-cover: >-
-  https://images.unsplash.com/photo-1530533718754-001d2668365a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxibHVlfGVufDB8fHx8MTcxNjI2NTg0MHww&ixlib=rb-4.0.3&q=85
-coverY: 0
+cover: ../.gitbook/assets/docs-banner.png
+coverY: -50.197333333333326
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔵 Introducing Asset Chain
 
 ### What is Asset Chain? <a href="#what-is-fantom" id="what-is-fantom"></a>
 
-Asset Chain is the native blockchain for Xend Finance Real-World Asset OAE (Onchain Asset Environment); with its consensus based on Fantom's Lachesis consensus.&#x20;
+Asset Chain is the native blockchain for Xend Finance Real-World Asset OAE (Onchain Asset Environment); with its consensus based on Fantom's Lachesis consensus.
 
 This enables a fast, scalable, and secure smart contract platform.
 
@@ -20,8 +33,6 @@ Asset Chain is:
 * Permissionless
 * Decentralized
 * Open source
-
-
 
 ### Key features <a href="#key-features" id="key-features"></a>
 
@@ -43,8 +54,6 @@ Asset Chain is also leaderless. By removing leaders, security does not rely on a
 
 Asset Chain is fully compatible with the Ethereum Virtual Machine. Developers can create and deploy smart contracts as they would on Ethereum.
 
-
-
 ### Get started <a href="#get-started" id="get-started"></a>
 
 Here are some useful links to get you started:
@@ -53,10 +62,6 @@ Here are some useful links to get you started:
 * [Bridge on Asset Chain](../tools/bridge.md)
 * [Operate a Node](../tools/operate-a-node.md)
 
-
-
 ### Reference
 
 Asset Chain is built on [Fantom's](https://fantom.foundation/) revolutionary Lachesis consensus mechanism. Special thanks to the Fantom team.
-
-&#x20;

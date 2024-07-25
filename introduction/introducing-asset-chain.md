@@ -1,7 +1,7 @@
 ---
 description: Everything you need to build on the Asset Chain.
-cover: ../.gitbook/assets/docs-banner.png
-coverY: -409.30133333333333
+cover: ../.gitbook/assets/docs-banner-2.png
+coverY: 0
 layout:
   cover:
     visible: true

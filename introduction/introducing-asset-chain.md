@@ -1,6 +1,6 @@
 ---
 description: Everything you need to build on the Asset Chain.
-cover: ../.gitbook/assets/docs-banner-2.png
+cover: ../.gitbook/assets/Header Banner_Documentation.png
 coverY: 0
 layout:
   cover:

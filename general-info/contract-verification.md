@@ -6,6 +6,10 @@ description: Lets verify smart contracts on Asset Chain.
 
 Pro tip: If you deployed your contract with Hardhat, use the Hardhat guide to verify it.
 
+{% hint style="info" %}
+Note: from solidity compiler version ^0.8.20 won’t verify successfully.
+{% endhint %}
+
 ## With Advanced Explorer <a href="#with-advanced-explorer" id="with-advanced-explorer"></a>
 
 **Get Started**
@@ -65,13 +69,13 @@ Install the [hardhat-etherscan plugin](https://hardhat.org/plugins/nomiclabs-har
 **npm**
 
 ```bash
-npm install --save-dev @nomiclabs/hardhat-etherscan
+npm install --save-dev @nomicfoundation/hardhat-verify
 ```
 
 **yarn**
 
 ```bash
-yarn add --dev @nomiclabs/hardhat-etherscan
+yarn add --dev @nomicfoundation/hardhat-verify
 ```
 
 4. Add plugin reference to config file
@@ -79,13 +83,13 @@ yarn add --dev @nomiclabs/hardhat-etherscan
 Add the following statement to your `hardhat.config.js`.
 
 ```javascript
-require("@nomiclabs/hardhat-etherscan");
+require("@nomicfoundation/hardhat-verify");
 ```
 
 If using TypeScript, add this to your `hardhat.config.ts.` [More info on using typescript with hardhat available here](https://hardhat.org/guides/typescript.html#typescript-support).
 
 ```javascript
-import "@nomiclabs/hardhat-etherscan";
+import "@nomicfoundation/hardhat-verify";
 ```
 
 #### Config File <a href="#config-file" id="config-file"></a>
@@ -105,9 +109,7 @@ The network name in `customChains` must match the network name in the `apiKey` o
 {% endhint %}
 
 ```json
-require("@nomiclabs/hardhat-waffle");
-require("@nomiclabs/hardhat-etherscan");
-require('hardhat-deploy');
+require("@nomicfoundation/hardhat-verify");
 
 let secret = require("./secret");
 

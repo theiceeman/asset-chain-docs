@@ -22,6 +22,6 @@ A self-custody multi-chain platform, Trustwallet support millions of assets acro
 
 ### Wallet Connect
 
-An Open protocol for connecting Wallets to Dapps. Wallet Connect's, Wallet Kit boasts features that provide a simple, secure way for your wallet users to easily connect with thousands of apps.
+An Open protocol for connecting Wallets to Dapps, supports Asset Chain. Wallet Connect's, Wallet Kit boasts features that provide a simple, secure way for your wallet users to easily connect with thousands of apps.
 
 {% embed url="https://walletconnect.com/walletkit" %}

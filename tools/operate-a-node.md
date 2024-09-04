@@ -4,16 +4,19 @@ description: Getting started with running your node on Asset Chain.
 
 # 🏗️ Operate a Node
 
+We curated a guide to start running your own node:\
+[https://github.com/xendfinance/assetchain-blockchain](https://github.com/xendfinance/assetchain-blockchain)
+
+
+
 As the first blockchain explicitly designed for legally compliant asset tokenization and management, we recognize that our own nodes are assets too and should be tokenized accordingly.
 
 This approach will lead to the full tokenization of Asset Chain nodes, integrating them into the very blockchain they run. This innovative setup creates what we refer to as 'liquid nodes,' a unique infrastructure that enhances the blockchain's functionality and accessibility.
 
 Asset Chain supports 2 types of nodes
 
-* Liquid nodes&#x20;
+* Liquid nodes
 * Standalone nodes
-
-We re currently curating a more detailed explanation for setting up your nodes.
 
 _Below is a visualization of this innovative approach:_
 

@@ -6,19 +6,17 @@ description: Get started with swapping tokens on Asset Chain
 
 ### Smart Contract
 
-A direct fork of Uniswap-V3 exchange for the Token program on the Asset Chain blockchain, implementing the constant product market maker (CPMM) curve.
+A direct fork of Uniswap-V3 exchange on the Asset Chain blockchain, implementing the constant product market maker (CPMM) curve.
 
 The official documentation for Uniswap explains all you need: [https://docs.uniswap.org](https://docs.uniswap.org/)
 
 
 
-Official Deployments:
+**Official Deployments:**
 
 **Testnet**
 
 <table><thead><tr><th width="272">Contract</th><th>Address</th></tr></thead><tbody><tr><td>SwapRouter</td><td><a href="https://scan-testnet.assetchain.org/address/0x365C8Bd36a27128A230B1CE8f7027d7a9e5A8f82">0x365C8Bd36a27128A230B1CE8f7027d7a9e5A8f82</a></td></tr><tr><td>NonFungiblePositionManager</td><td><a href="https://scan-testnet.assetchain.org/address/0x7EA8E1240762AC24A599Ab4eD86E39f989BC78A9">0x7EA8E1240762AC24A599Ab4eD86E39f989BC78A9</a></td></tr><tr><td>UniswapV3Factory</td><td><a href="https://scan-testnet.assetchain.org/address/0xf509c3FbbBa099cD5D949C6621C218B3E52670F8">0xf509c3FbbBa099cD5D949C6621C218B3E52670F8</a></td></tr></tbody></table>
-
-
 
 
 

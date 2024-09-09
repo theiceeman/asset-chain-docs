@@ -1,6 +1,8 @@
 # 🔗 Official Links
 
-* **Twitter / X:** [http://twitter.com/xendfinance](http://twitter.com/xendfinance)
+* **Asset Chain Twitter / X:** [https://x.com/rwaassetchain\
+  ](https://x.com/rwaassetchain)
+* **Xend Finance Twitter / X:** [http://twitter.com/xendfinance](http://twitter.com/xendfinance)
 * **Discord:** [https://discord.gg/QGHb7jp2GV](https://discord.gg/QGHb7jp2GV)
 * **Community Blog:** [http://medium.com/xendfinance/](http://medium.com/xendfinance/)
 * **Telegram:** [https://t.me/XendFinanceDevs](https://t.me/XendFinanceDevs)

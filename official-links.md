@@ -12,5 +12,4 @@
 
 * **XendFinance Discord:** [https://discord.gg/QGHb7jp2GV](https://discord.gg/QGHb7jp2GV)
 * **Community Blog:** [http://medium.com/xendfinance](http://medium.com/xendfinance/)
-* **Xend Finance Twitter / X:** [http://twitter.com/xendfinance](http://twitter.com/xendfinance)
 * **GitHub:** [https://github.com/xendfinance](https://github.com/xendfinance)

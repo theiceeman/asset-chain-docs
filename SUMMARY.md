@@ -29,3 +29,4 @@
 * [🏫 Asset Chain Academy](asset-chain-academy.md)
 * [™️ Branding Guideline](branding-guideline.md)
 * [🔗 Official Links](official-links.md)
+* [🛡️ Audits](audits.md)

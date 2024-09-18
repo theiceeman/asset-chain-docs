@@ -2,8 +2,7 @@
 
 * **Asset Chain Twitter / X:** [https://x.com/rwaassetchain\
   ](https://x.com/rwaassetchain)
-* **Asset Chain Discord:** [https://discord.gg/Bd2RSPcy\
-  ](https://discord.gg/Bd2RSPcy)
+* **Asset Chain Discord:** [https://discord.gg/wvvtY8Wk6M](https://discord.gg/wvvtY8Wk6M)
 * **Telegram:** [https://t.me/AssetChainBuilders](https://t.me/AssetChainBuilders)
 * **Youtube:** [https://www.youtube.com/@AssetChain\
   ](https://www.youtube.com/@AssetChain)

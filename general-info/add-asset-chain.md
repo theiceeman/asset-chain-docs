@@ -14,13 +14,13 @@ To add Asset Chain Mainnet as a custom network to MetaMask:
 4. Click **Add a network manually**.
 5. In the **Add a network manually** dialog that appears, enter the following information:
 
-| Name            | Value               |
-| --------------- | ------------------- |
-| Network Name    | Asset Chain Mainnet |
-| RPC Endpoint    |                     |
-| Chain ID        |                     |
-| Currency Symbol | RWA                 |
-| Block Explorer  |                     |
+| Name            | Value                                                                     |
+| --------------- | ------------------------------------------------------------------------- |
+| Network Name    | Asset Chain Mainnet                                                       |
+| RPC Endpoint    | [https://mainnet-rpc.assetchain.org](https://mainnet-rpc.assetchain.org/) |
+| Chain ID        |                                                                           |
+| Currency Symbol | RWA                                                                       |
+| Block Explorer  | [https://scan.assetchain.org/](https://scan.assetchain.org/)              |
 
 You should now be able to connect to the Asset Chain Mainnet by selecting it from the network selection dropdown menu.
 

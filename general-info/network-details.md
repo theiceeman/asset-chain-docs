@@ -4,7 +4,7 @@
 | --------------------------- | ------------------------------------------------------------------------ |
 | Network Name                | Asset Chain Mainnet                                                      |
 | RPC Endpoint                | [https://mainnet-rpc.assetchain.org](https://mainnet-rpc.assetchain.org) |
-| Chain ID                    |                                                                          |
+| Chain ID                    | 42120                                                                    |
 | Currency Symbol             | RWA                                                                      |
 | Block Explorer              | [https://scan.assetchain.org](https://scan.assetchain.org)               |
 | Bridge                      |                                                                          |

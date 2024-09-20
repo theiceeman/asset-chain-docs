@@ -1,14 +1,14 @@
 # 🟩 Network Details
 
-| Name                        | Value               |
-| --------------------------- | ------------------- |
-| Network Name                | Asset Chain Mainnet |
-| RPC Endpoint                |                     |
-| Chain ID                    |                     |
-| Currency Symbol             | RWA                 |
-| Block Explorer              |                     |
-| Bridge                      |                     |
-| ETH Mainnet Bridge Contract |                     |
+| Name                        | Value                                                                    |
+| --------------------------- | ------------------------------------------------------------------------ |
+| Network Name                | Asset Chain Mainnet                                                      |
+| RPC Endpoint                | [https://mainnet-rpc.assetchain.org](https://mainnet-rpc.assetchain.org) |
+| Chain ID                    |                                                                          |
+| Currency Symbol             | RWA                                                                      |
+| Block Explorer              | [https://scan.assetchain.org](https://scan.assetchain.org)               |
+| Bridge                      |                                                                          |
+| ETH Mainnet Bridge Contract |                                                                          |
 
 ### Asset Chain Testnet <a href="#mode-testnet" id="mode-testnet"></a>
 

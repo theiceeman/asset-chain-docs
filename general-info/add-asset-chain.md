@@ -18,7 +18,7 @@ To add Asset Chain Mainnet as a custom network to MetaMask:
 | --------------- | ------------------------------------------------------------------------- |
 | Network Name    | Asset Chain Mainnet                                                       |
 | RPC Endpoint    | [https://mainnet-rpc.assetchain.org](https://mainnet-rpc.assetchain.org/) |
-| Chain ID        | 42120                                                                     |
+| Chain ID        | 42420                                                                     |
 | Currency Symbol | RWA                                                                       |
 | Block Explorer  | [https://scan.assetchain.org](https://scan.assetchain.org/)               |
 

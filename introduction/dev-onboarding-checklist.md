@@ -20,8 +20,7 @@ description: >-
 
 * **Asset Chain Twitter / X:** [https://x.com/rwaassetchain\
   ](https://x.com/rwaassetchain)
-* **Asset Chain Discord:** [https://discord.gg/2ccbqBHpAd\
-  ](https://discord.gg/2ccbqBHpAd)
+* **Asset Chain Discord:** [https://discord.assetchain.org](https://discord.assetchain.org/)
 * **Telegram:** [https://t.me/AssetChainBuilders](https://t.me/AssetChainBuilders)
 * **Youtube:** [https://www.youtube.com/@AssetChain\
   ](https://www.youtube.com/@AssetChain)

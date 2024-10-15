@@ -25,5 +25,5 @@ description: >-
 * **Youtube:** [https://www.youtube.com/@AssetChain\
   ](https://www.youtube.com/@AssetChain)
 * **LinkedIn:** [https://www.linkedin.com/company/theassetchain](https://www.linkedin.com/company/theassetchain)
-* **Community Blog:** [http://medium.com/xendfinance](http://medium.com/xendfinance/)
+* **Community Blog:** [https://medium.com/asset-chain](https://medium.com/asset-chain)
 * **GitHub:** [https://github.com/xendfinance](https://github.com/xendfinance)

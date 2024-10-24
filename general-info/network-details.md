@@ -1,5 +1,7 @@
 # 🟩 Network Details
 
+### Asset Chain Mainnet <a href="#mode-testnet" id="mode-testnet"></a>
+
 | Name            | Value                                                                    |
 | --------------- | ------------------------------------------------------------------------ |
 | Network Name    | Asset Chain Mainnet                                                      |

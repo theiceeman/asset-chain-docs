@@ -17,6 +17,7 @@
   * [💡 Contract Addresses](general-info/contract-addresses.md)
   * [👀 Contract Verification](general-info/contract-verification.md)
   * [🍂 Staking](general-info/staking.md)
+  * [Security](general-info/security.md)
 * [TOOLS](tools/README.md)
   * [🏗️ Operate a Node](tools/operate-a-node.md)
   * [🧱 RPC](tools/rpc.md)

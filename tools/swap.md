@@ -14,6 +14,10 @@ The official documentation for Uniswap explains all you need: [https://docs.unis
 
 **Official Deployments:**
 
+**Mainnet**
+
+<table><thead><tr><th width="275">Contract</th><th>Address</th></tr></thead><tbody><tr><td>SwapRouter</td><td><a href="https://scan.assetchain.org/address/0xEC2B2209D710D4283b5d1e29441Df0Dbb9ceE5c3">0xec2b2209d710d4283b5d1e29441df0dbb9cee5c3</a></td></tr><tr><td>NonFungiblePositionManager</td><td><a href="https://scan.assetchain.org/address/0x8804e26B04f52B0183ECE80b797d1c1079956E56">0x8804e26B04f52B0183ECE80b797d1c1079956E56</a></td></tr><tr><td>UniswapV3Factory</td><td><a href="https://scan.assetchain.org/address/0xa9d53862D01190e78dDAf924a8F497b4F8bb5163">0xa9d53862d01190e78ddaf924a8f497b4f8bb5163</a></td></tr></tbody></table>
+
 **Testnet**
 
 <table><thead><tr><th width="272">Contract</th><th>Address</th></tr></thead><tbody><tr><td>SwapRouter</td><td><a href="https://scan-testnet.assetchain.org/address/0x365C8Bd36a27128A230B1CE8f7027d7a9e5A8f82">0x365C8Bd36a27128A230B1CE8f7027d7a9e5A8f82</a></td></tr><tr><td>NonFungiblePositionManager</td><td><a href="https://scan-testnet.assetchain.org/address/0x7EA8E1240762AC24A599Ab4eD86E39f989BC78A9">0x7EA8E1240762AC24A599Ab4eD86E39f989BC78A9</a></td></tr><tr><td>UniswapV3Factory</td><td><a href="https://scan-testnet.assetchain.org/address/0xf509c3FbbBa099cD5D949C6621C218B3E52670F8">0xf509c3FbbBa099cD5D949C6621C218B3E52670F8</a></td></tr></tbody></table>

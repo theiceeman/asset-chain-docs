@@ -21,8 +21,6 @@ RPC Endpoint: [https://mainnet-rpc.assetchain.org](https://mainnet-rpc.assetchai
 
 API docs: [https://scan.assetchain.org/api-docs](https://scan.assetchain.org/api-docs)
 
-###
-
 ### Testnet
 
 \

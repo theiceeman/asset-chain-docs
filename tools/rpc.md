@@ -26,4 +26,4 @@ API docs: [https://scan.assetchain.org/api-docs](https://scan.assetchain.org/api
 \
 RPC Endpoint: [https://enugu-rpc.assetchain.org](https://enugu-rpc.assetchain.org/)
 
-Testnet API docs: [https://scan-testnet.assetchain.org/api-docs](https://scan-testnet.assetchain.org/api-docs)&#x20;
+API docs: [https://scan-testnet.assetchain.org/api-docs](https://scan-testnet.assetchain.org/api-docs)&#x20;

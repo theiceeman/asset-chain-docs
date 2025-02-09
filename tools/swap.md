@@ -47,26 +47,38 @@ Click the links below to get started.
 
 <figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/4.png" alt=""><figcaption></figcaption></figure>
 
-## Locking Liquidity Positions
-When you provide liquidity on AssetChain Swap application, you also have the option to lock that liquidity position for a period of time. In this period of time, you don't have the permission to perform any actions on your liquidity position.
-
-The following are steps to lock liquidity position on the [AssetChain Swap application](https://swap-testnet.assetchain.org)
-1. View Liquidity Positions
-<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/1-positions-page.png" alt=""><figcaption>View Liquidity Positions</figcaption></figure>
-
-2. Single positions. This page has the 'Lock Liquidity' button below for positions that are not locked.
-<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/2-single-positions-page.png" alt=""><figcaption>Lock Liquidity</figcaption></figure>
-
-3. Choose lock period. This is the number of days in which you cannot perform any functions like closing position or decreasing liquidity in your position.
-<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/3-choose-lock-period.png" alt=""><figcaption>Choose lock period</figcaption></figure>
-
-4. Locked Position.
-<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/4-lock-liquidity-page.png" alt=""><figcaption>Locked position page</figcaption></figure>
-
 {% hint style="success" %}
 Congratulations! You've swapped your token successfully.
 {% endhint %}
 
+## Locking Liquidity Positions
+
+When you provide liquidity on AssetChain Swap application, you also have the option to lock that liquidity position for a period of time. In this period of time, you don't have the permission to perform any actions on your liquidity position.
+
+The following are steps to lock liquidity position on the [AssetChain Swap application](https://swap-testnet.assetchain.org)
+
+1. View Liquidity Positions
+
+<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/1-positions-page.png" alt=""><figcaption><p>View Liquidity Positions</p></figcaption></figure>
+
+2. Single positions. This page has the 'Lock Liquidity' button below for positions that are not locked.
+
+<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/2-single-positions-page.png" alt=""><figcaption><p>Lock Liquidity</p></figcaption></figure>
+
+3. Choose lock period. This is the number of days in which you cannot perform any functions like closing position or decreasing liquidity in your position.
+
+<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/3-choose-lock-period.png" alt=""><figcaption><p>Choose lock period</p></figcaption></figure>
+
+4. Locked Position.
+
+<figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/4-lock-liquidity-page.png" alt=""><figcaption><p>Locked position page</p></figcaption></figure>
+
+{% hint style="success" %}
+Congratulations! You've locked liqudity successfully.
+{% endhint %}
+
+
+
 {% hint style="info" %}
-For supported Testnet tokens, just reach out to the team [here](https://t.me/XendFinanceDevs)
+For supported Testnet tokens, just reach out to the team [here](https://t.me/AssetChainBuilders)
 {% endhint %}

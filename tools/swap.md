@@ -14,7 +14,7 @@ The official documentation for Uniswap explains all you need: [https://docs.unis
 
 **Mainnet**
 
-<table><thead><tr><th width="275">Contract</th><th>Address</th></tr></thead><tbody><tr><td>SwapRouter</td><td><a href="https://scan.assetchain.org/address/0xEC2B2209D710D4283b5d1e29441Df0Dbb9ceE5c3">0xec2b2209d710d4283b5d1e29441df0dbb9cee5c3</a></td></tr><tr><td>NonFungiblePositionManager</td><td><a href="https://scan.assetchain.org/address/0x8804e26B04f52B0183ECE80b797d1c1079956E56">0x8804e26B04f52B0183ECE80b797d1c1079956E56</a></td></tr><tr><td>UniswapV3Factory</td><td><a href="https://scan.assetchain.org/address/0xa9d53862D01190e78dDAf924a8F497b4F8bb5163">0xa9d53862d01190e78ddaf924a8f497b4f8bb5163</a></td></tr></tbody></table>
+<table><thead><tr><th width="275">Contract</th><th>Address</th></tr></thead><tbody><tr><td>SwapRouter</td><td><a href="https://scan.assetchain.org/address/0xEC2B2209D710D4283b5d1e29441Df0Dbb9ceE5c3">0xec2b2209d710d4283b5d1e29441df0dbb9cee5c3</a></td></tr><tr><td>NonFungiblePositionManager</td><td><a href="https://scan.assetchain.org/address/0x8804e26B04f52B0183ECE80b797d1c1079956E56">0x8804e26B04f52B0183ECE80b797d1c1079956E56</a></td></tr><tr><td>UniswapV3Factory</td><td><a href="https://scan.assetchain.org/address/0xa9d53862D01190e78dDAf924a8F497b4F8bb5163">0xa9d53862d01190e78ddaf924a8f497b4f8bb5163</a></td></tr><tr><td>Liquidity Locker</td><td><a href="https://scan.assetchain.org/address/0xbaF9841A79f038d99bB8bBF26Cc6ab9cAF552b24">0xbaF9841A79f038d99bB8bBF26Cc6ab9cAF552b24</a></td></tr></tbody></table>
 
 **Testnet**
 
@@ -48,9 +48,11 @@ Click the links below to get started.
 <figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/4.png" alt=""><figcaption></figcaption></figure>
 
 ## Locking Liquidity Positions
+
 When you provide liquidity on AssetChain Swap application, you also have the option to lock that liquidity position for a period of time. In this period of time, you don't have the permission to perform any actions on your liquidity position.
 
 The following are steps to lock liquidity position on the [AssetChain Swap application](https://swap-testnet.assetchain.org)
+
 1. View Liquidity Positions
 <figure><img src="https://raw.githubusercontent.com/theiceeman/asset-chain-assets/main/gitbooks/swap/1-positions-page.png" alt=""><figcaption>View Liquidity Positions</figcaption></figure>
 

@@ -14,7 +14,7 @@ The official documentation for Uniswap explains all you need: [https://docs.unis
 
 **Mainnet**
 
-<table><thead><tr><th width="275">Contract</th><th>Address</th></tr></thead><tbody><tr><td>SwapRouter</td><td><a href="https://scan.assetchain.org/address/0xEC2B2209D710D4283b5d1e29441Df0Dbb9ceE5c3">0xec2b2209d710d4283b5d1e29441df0dbb9cee5c3</a></td></tr><tr><td>NonFungiblePositionManager</td><td><a href="https://scan.assetchain.org/address/0x8804e26B04f52B0183ECE80b797d1c1079956E56">0x8804e26B04f52B0183ECE80b797d1c1079956E56</a></td></tr><tr><td>UniswapV3Factory</td><td><a href="https://scan.assetchain.org/address/0xa9d53862D01190e78dDAf924a8F497b4F8bb5163">0xa9d53862d01190e78ddaf924a8f497b4f8bb5163</a></td></tr></tbody></table>
+<table><thead><tr><th width="275">Contract</th><th>Address</th></tr></thead><tbody><tr><td>SwapRouter</td><td><a href="https://scan.assetchain.org/address/0xEC2B2209D710D4283b5d1e29441Df0Dbb9ceE5c3">0xec2b2209d710d4283b5d1e29441df0dbb9cee5c3</a></td></tr><tr><td>NonFungiblePositionManager</td><td><a href="https://scan.assetchain.org/address/0x8804e26B04f52B0183ECE80b797d1c1079956E56">0x8804e26B04f52B0183ECE80b797d1c1079956E56</a></td></tr><tr><td>UniswapV3Factory</td><td><a href="https://scan.assetchain.org/address/0xa9d53862D01190e78dDAf924a8F497b4F8bb5163">0xa9d53862d01190e78ddaf924a8f497b4f8bb5163</a></td></tr><tr><td>Liquidity Locker</td><td><a href="https://scan.assetchain.org/address/0xbaF9841A79f038d99bB8bBF26Cc6ab9cAF552b24">0xbaF9841A79f038d99bB8bBF26Cc6ab9cAF552b24</a></td></tr></tbody></table>
 
 **Testnet**
 

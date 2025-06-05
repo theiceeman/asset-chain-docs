@@ -8,9 +8,19 @@ Users can bridge tokens on Mainnet or Testnet from other chains to Asset Chain. 
 
 
 
-**Mainnet:**
+### **Asset Chain Native Bridge** <a href="#mode-mainnet-bridge" id="mode-mainnet-bridge"></a>
+
+You can use this to bridge assets from supported chains to Asset Chain.
+
+**Mainnet:** [https://bridge.assetchain.org](https://bridge.assetchain.org/)
 
 **Testnet:** [https://bridge-testnet.assetchain.org](https://bridge-testnet.assetchain.org/)
+
+
+
+
+
+## How it works:
 
 1. Access the URL above then enter the required information, including the asset type, amount, and destination chain in the form below.
 
@@ -51,8 +61,6 @@ Congratulations! You have successfully bridged your asset across chains
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-18 at 3.46.55 PM.png" alt=""><figcaption></figcaption></figure>
-
-
 
 {% hint style="info" %}
 For supported Testnet tokens, just reach out to the team [here](https://t.me/XendFinanceDevs)

@@ -155,15 +155,13 @@ Earn extra points by completing tasks on social platforms:
 1. Connect your **X** and **Telegram** accounts via the dashboard
 2. Complete social tasks and verify them to receive points
 
+***
 
-
-#### 🚫 Rules & Disqualification
+## 🚫 Rules & Disqualification
 
 To ensure fairness, participants must only use one account and avoid any form of manipulation, including wash trading, Sybil attacks, or exploiting smart contracts or reward systems. Any attempt to game the system may result in point removal, leaderboard reset, or permanent disqualification.
 
 The Asset Chain team reserves the right to disqualify users at its discretion for suspicious behavior, abuse of referral systems, or failure to comply with program rules. All decisions are final, and disqualified users forfeit any unclaimed rewards.
-
-***
 
 ## 🎁 Conclusion
 

@@ -1,4 +1,3 @@
-
 # Asset Chain Liquidity Mining Program
 
 The **Asset Chain Liquidity Mining Program** is a strategic initiative aimed at deepening on-chain liquidity and rewarding participants for their engagement. Users earn points for performing various tasks within the Asset Chain ecosystem. These points will be redeemable at the end of the program for exclusive rewards.
@@ -102,6 +101,17 @@ Invite others to Asset Chain and earn additional rewards!
 
 - Generate your referral code from the dashboard
 - Share it with others to earn passive rewards from their activity
+
+```mermaid
+graph TD
+    A["Participant"]
+    A --> B1["Tier 1"]
+    A --> B2["Tier 1"]
+    A --> B3["Tier 1"]
+    B1 --> C1["Tier 2"]
+    B1 --> C2["Tier 2"]
+    B3 --> C3["Tier 2"]
+```
 
 ---
 

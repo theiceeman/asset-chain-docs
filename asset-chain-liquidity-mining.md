@@ -59,8 +59,9 @@ Points = base × √(amount in USD)
 
 > **Note:** Bridging points are initially marked as **locked**. They are **unlocked** only after:
 >
-> * The bridged token is used to **create a liquidity position**, and
-> * The position is **locked for at least 30 days**
+> * The bridged token is used to **create a liquidity position**,
+> * The position becomes **locked** 
+> * Once you lock your position, it takes 7 days max for your locked points to become unlocked.
 
 ***
 

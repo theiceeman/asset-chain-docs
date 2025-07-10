@@ -31,4 +31,8 @@ API docs: [https://scan-testnet.assetchain.org/api-docs](https://scan-testnet.as
 
 Nodebridge provides fast, reliable, and production-ready access to multiple blockchain networks via RPC. It allows you to send transactions, deploy smart contracts, query blockchain data or other operations without having to run your own node or manage infrastructure.
 
-RPC & websocket info: [https://nodebridge.xyz](https://nodebridge.xyz/)
+{% hint style="info" %}
+Create an account on Nodebridge, then copy your RPC url to gain access.
+{% endhint %}
+
+RPC info: [https://nodebridge.xyz](https://nodebridge.xyz/)

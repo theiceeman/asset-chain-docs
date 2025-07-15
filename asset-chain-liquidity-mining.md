@@ -78,7 +78,7 @@ Points = base × √(amount in USD)
 Points = base × √(amount in USD)
 ```
 
-Higher-value trades result in more points.
+Higher-value trades result in more points. Your trades only get points if the value of your trade is 5 USD or more.
 
 ***
 

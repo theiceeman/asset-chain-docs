@@ -60,7 +60,7 @@ Points = base × √(amount in USD)
 > **Note:** Bridging points are initially marked as **locked**. They are **unlocked** only after:
 >
 > * The bridged token is used to **create a liquidity position**,
-> * The position becomes **locked** 
+> * The position becomes **locked**
 > * Once you lock your position, it takes 7 days max for your locked points to become unlocked.
 
 ***
@@ -123,6 +123,25 @@ graph TD
 ```
 
 ***
+
+### 🤓 Point Distribution Table
+
+### For Bridge
+
+| TOKEN        |
+| ------------ |
+| xRWA Bridged |
+| USDC Bridged |
+| WNT Bridged  |
+| USDT Bridged |
+
+### For Swap
+
+| ASSET     | PERCENTAGE |
+| --------- | ---------- |
+| USDC/USDT | 0.01%      |
+| USDT/WNT  | 1%         |
+| USDT/cNGN | 0.3%       |
 
 ## 🌐 Communities
 

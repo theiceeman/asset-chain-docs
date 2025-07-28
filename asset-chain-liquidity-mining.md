@@ -134,16 +134,16 @@ Participant
 
 ### For Bridge
 
-| TOKEN        |
-| ------------ |
-| xRWA Bridged |
-| USDC Bridged |
-| WNT Bridged  |
-| USDT Bridged |
+| TOKEN        | Asset Chain Address |
+| ------------ | ---
+| xRWA Bridged | [0x02afe9989D86a0357fbb238579FE035dc17BcAB0](http://scan.assetchain.org/token/0x02afe9989D86a0357fbb238579FE035dc17BcAB0) |
+| USDC Bridged | [0x2B7C1342Cc64add10B2a79C8f9767d2667DE64B2](http://scan.assetchain.org/token/0x2B7C1342Cc64add10B2a79C8f9767d2667DE64B2) |
+| WNT Bridged  | [0xEc6943BB984AED25eC96986898721a7f8aB6212E](http://scan.assetchain.org/token/0xEc6943BB984AED25eC96986898721a7f8aB6212E) |
+| USDT Bridged | [0x26E490d30e73c36800788DC6d6315946C4BbEa24](http://scan.assetchain.org/token/0x26E490d30e73c36800788DC6d6315946C4BbEa24) |
 
 ### For Swap
 
-| ASSET     | PERCENTAGE |
+| ASSET     | FEE TIER |
 | --------- | ---------- |
 | USDC/USDT | 0.01%      |
 | USDT/WNT  | 1%         |

@@ -61,7 +61,8 @@ Points = base × √(amount in USD)
 >
 > * The bridged token is used to **create a liquidity position**,
 > * The position becomes **locked**
-> * Once you lock your position, it takes 7 days max for your locked points to become unlocked.
+> * Once you lock your position, it takes 24 hours max for your locked points to become unlocked.
+> * There is a maximum of 100 points for every bridge points you get i.e. if after your calculation of points and you have more than 100, only 100 points will be given.
 
 ***
 
@@ -81,6 +82,10 @@ Points = base × √(amount in USD)
 Higher-value trades result in more points. Your trades only get points if the value of your trade is 45 USD or more.
 
 ***
+> **Note:** :
+>
+> * Your trades only gets points when you trade 45 USD worth of tokens or more in recognized pools here,
+> * There is a maximum of 100 points for every swap points you get i.e. if after your calculation of points and you have more than 100, only 100 points will be given.
 
 ## 🔒 Locking Liquidity Positions
 
@@ -111,15 +116,16 @@ Invite others to Asset Chain and earn additional rewards!
 * Generate your referral code from the dashboard
 * Share it with others to earn passive rewards from their activity
 
-```mermaid
-graph TD
-    A["Participant"]
-    A --> B1["Tier 1"]
-    A --> B2["Tier 1"]
-    A --> B3["Tier 1"]
-    B1 --> C1["Tier 2"]
-    B1 --> C2["Tier 2"]
-    B3 --> C3["Tier 2"]
+```
+Participant
+├── Tier 1 Referral
+│   ├── Tier 2 Referral
+│   └── Tier 2 Referral
+├── Tier 1 Referral
+│   ├── Tier 2 Referral
+│   └── Tier 2 Referral
+└── Tier 1 Referral
+    └── Tier 2 Referral
 ```
 
 ***
@@ -155,7 +161,7 @@ Participants who are members of recognized **Asset Chain communities** are eligi
 
 Track your progress and see how you rank against other participants.
 
-* The **leaderboard updates every 7 days** after weekly point distribution
+* The **leaderboard updates every 24 hours at 9:00PM WAT** after daily point distribution
 * Top-ranking users may qualify for exclusive bonuses and recognition
 
 ***

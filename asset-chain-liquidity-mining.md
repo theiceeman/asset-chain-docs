@@ -79,12 +79,12 @@ Points = base × √(amount in USD)
 Points = base × √(amount in USD)
 ```
 
-Higher-value trades result in more points. Your trades only get points if the value of your trade is 45 USD or more.
+Higher-value trades result in more points. Your trades only get points if the value of your trade is 40 USD or more.
 
 ***
 > **Note:** :
 >
-> * Your trades only gets points when you trade 45 USD worth of tokens or more in recognized pools here,
+> * Your trades only gets points when you trade 40 USD worth of tokens or more in recognized pools here,
 > * There is a maximum of 100 points for every swap points you get i.e. if after your calculation of points and you have more than 100, only 100 points will be given.
 
 ## 🔒 Locking Liquidity Positions

@@ -6,8 +6,6 @@ description: Start bridging to Asset Chain
 
 Users can bridge tokens on Mainnet or Testnet from other chains to Asset Chain. Bridging on Testnet will use the supported test Tokens.
 
-
-
 ### **Asset Chain Native Bridge** <a href="#mode-mainnet-bridge" id="mode-mainnet-bridge"></a>
 
 You can use this to bridge assets from supported chains to Asset Chain.
@@ -16,11 +14,14 @@ You can use this to bridge assets from supported chains to Asset Chain.
 
 **Testnet:** [https://bridge-testnet.assetchain.org](https://bridge-testnet.assetchain.org/)
 
+### 🌕 MoonBridge
 
+MoonBridge is Moonpie’s intelligent bridge for moving tokens from other chains to Asset Chain.\
+It enables fast, low-cost bridging, optimized for users with a seamless UX.
 
+**Mainnet:** [https://moonpie.fun/bridge](https://moonpie.fun/bridge)
 
-
-## How it works:
+#### Using **Asset Chain Native Bridge**:
 
 1. Access the URL above then enter the required information, including the asset type, amount, and destination chain in the form below.
 

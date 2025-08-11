@@ -145,7 +145,6 @@ Participant
 
 | ASSET     | FEE TIER |
 | --------- | ---------- |
-| USDC/USDT | 0.01%      |
 | USDT/WNT  | 1%         |
 | USDT/cNGN | 0.3%       |
 
@@ -180,6 +179,11 @@ Earn extra points by completing tasks on social platforms:
 
 1. Connect your **X** and **Telegram** accounts via the dashboard
 2. Complete social tasks and verify them to receive points
+
+***
+
+## 📈 Liquidity Pool APR
+Annual Percentage Return (APR) is the estimated annual yield for a specific pool. For example, the USDT/cNGN 0.3% fee tier pool generates returns based on trading volume and the total value locked (TVL) in that pool. Higher trading activity and lower TVL typically result in higher APR for liquidity providers.
 
 ***
 

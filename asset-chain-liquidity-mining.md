@@ -147,6 +147,7 @@ Participant
 | --------- | ---------- |
 | USDT/WNT  | 1%         |
 | USDT/cNGN | 0.3%       |
+| xRWA/WETH | 0.3%       |
 
 ## 🌐 Communities
 

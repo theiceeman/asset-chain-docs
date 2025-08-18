@@ -183,6 +183,32 @@ Earn extra points by completing tasks on social platforms:
 
 ***
 
+
+***
+
+## Reputation Leaderboard Guide
+
+The reputation leaderboard refreshes **every day at 8:00 PM** to keep everything up to date.
+
+### What Gets Tracked
+
+* **Mentions** → For each task, the system fetches **20 mention activities**.
+* **Repost** → For each task, the system fetches **20 repost activities**.
+* **Followers** → For each task, the system fetches **200 follower activities**.
+
+👉 If there’s a high demand, admins can **manually speed things up** so tracking happens faster.
+
+### Special Case: Telegram Join Tasks
+
+For tasks that require you to **join a community, group, or channel on Telegram**:
+
+* The system checks your join **once only**.
+* There’s **no waiting time** — it’s verified immediately.
+
+---
+
+***
+
 ## 📈 Liquidity Pool APR
 Annual Percentage Return (APR) is the estimated annual yield for a specific pool. For example, the USDT/cNGN 0.3% fee tier pool generates returns based on trading volume and the total value locked (TVL) in that pool. Higher trading activity and lower TVL typically result in higher APR for liquidity providers.
 

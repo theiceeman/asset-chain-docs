@@ -94,10 +94,12 @@ Providing liquidity means depositing token pairs into liquidity pools. Locking t
 ### 🧮 Locked Liquidity Points Formula
 
 ```
-Points = base × lock duration multiplier
+Points = (base + √(amount locked in USD)) × lock duration multiplier
 ```
 
-* Longer lock durations yield higher multipliers
+* You only get points if your locked position has a value greater than 500 USD.
+* For lock duration multiplier: 30 to 90 days have a 1.2x multiplier, 90 to 180 days have a 1.5x multiplier, and more than 180 days have 2x multiplier.
+* Your locked points from bridging also gets unlocked only when you get points from your locked position.
 * Locked positions help stabilize the protocol and benefit the entire ecosystem
 
 ***

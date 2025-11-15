@@ -145,13 +145,14 @@ Participant
 
 ### For Swap
 
-| ASSET     | FEE TIER |
-| --------- | ---------- |
-| USDT/WNT  | 1%         |
-| USDT/cNGN | 0.3%       |
-| xRWA/WETH | 0.3%       |
-| xRWA/USDT | 0.3%       |
-| xRWA/USDT | 1%       |
+| ASSET     | FEE TIER | LINK |
+| --------- | ---------- | --- |
+| USDT/WNT  | 1%         | [Link](https://swap.assetchain.org/statistics/pools/17) |
+| USDT/cNGN | 0.3%       | [Link](https://swap.assetchain.org/statistics/pools/19) |
+| xRWA/WETH | 0.3%       | [Link](https://swap.assetchain.org/statistics/pools/27) |
+| xRWA/USDT | 0.3%       | [Link](https://swap.assetchain.org/statistics/pools/24) |
+| xRWA/USDT | 1%       | [Link](https://swap.assetchain.org/statistics/pools/32) |
+| xRWA/SHALOM | 1%       | [Link](https://swap.assetchain.org/statistics/pools/44) |
 
 ## 🌐 Communities
 

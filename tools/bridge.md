@@ -2,7 +2,7 @@
 description: Start bridging to Asset Chain
 ---
 
-# 🌉 Bridge
+# The Bridge
 
 Users can bridge tokens on Mainnet or Testnet from other chains to Asset Chain. Bridging on Testnet will use the supported test Tokens.
 
